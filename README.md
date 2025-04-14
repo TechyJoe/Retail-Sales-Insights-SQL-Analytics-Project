@@ -44,5 +44,3 @@ Products Table
 | ProductID      | INT       | Product in the order        |
 | Quantity       | INT       | Units purchased             |
 | UnitPrice      | DECIMAL   | Price at purchase time      |
-
--
